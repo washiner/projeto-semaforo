@@ -27,5 +27,5 @@ Esse projeto foi desenvolvido com HTML e CSS:
 
 ## 💻 Projeto
 
-Este projeto mostra os conhecimentos como if ternário, funções que podem ter diferentes açōes dentro da mesma função, também vimos que um objeto que tem sua principal
-caracteristica (chave, valor) também pode se atribuir uma funçãoa ao valor tornando o sistema com o código mais limpo e de fácil entendimento.
+Este projeto mostra os conhecimentos como if ternário, funções que podem ter diferentes açōes dentro da mesma função, setTimeOut (funçāo desliga algo em determinado tempo) e setTimeInterval que de tempos em tempos faz alguma ação também vimos que um objeto{} que tem sua principal
+caracteristica (chave, valor) também pode se atribuir uma função ao valor tornando o sistema com o código mais limpo e de fácil entendimento.
